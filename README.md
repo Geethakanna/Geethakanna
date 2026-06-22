@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm currently working on<br>• Building AI-powered applications such as LearnMate and MiroFish<br>• Exploring how intelligent systems can learn, collaborate, and solve real-world problems<br><br>I'm looking to collaborate on<br>• AI/ML Projects<br>• Backend Development<br>• Open-Source Contributions<br><br>I'm currently learning<br>• System Design<br>• Data Structures & Algorithms<br>• Multi-Agent Systems<br>• Cloud Technologies<br><br>Ask me about<br>• Python<br>• FastAPI<br>• Machine Learning<br>• APIs & Databases<br>• Building AI Projects from scratch<br><br>Beyond coding<br>• Athlete<br>• Hackathon Enthusiast<br>• CSI Member<br><br>Fun fact<br>I enjoy turning project ideas into working products more than coming up with project names.<br>
+
+Final-Year B.Tech Student in Artificial Intelligence & Data Science.<br><br>
+
+Currently building LearnMate and MiroFish while exploring AI-powered systems, swarm intelligence, and multi-agent architectures.<br><br>
+
+Interested in Artificial Intelligence, Backend Engineering, System Design, and scalable software development.<br><br>
+
+Working primarily with Python, FastAPI, Machine Learning, APIs, and Databases to develop practical applications.<br><br>
+
+Currently learning Cloud Technologies, Distributed Systems, and Advanced Data Structures & Algorithms.<br><br>
+
+Open to collaborating on AI, Backend, and Open-Source Projects.<br><br>
+
+2nd Place Winner at the TMI 24-Hour Hackathon.<br><br>
+
+Athlete • Hackathon Enthusiast • CSI Member
+
 
 
 ## 🌐 Socials:
