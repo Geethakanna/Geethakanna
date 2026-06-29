@@ -17,7 +17,6 @@ Open to collaborating on AI, Backend, and Open-Source Projects.<br><br>
 Athlete • Hackathon Enthusiast • CSI Member
 
 
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/geethakanna.bsky.social) 
 
