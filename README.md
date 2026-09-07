@@ -2,7 +2,7 @@
 
 Final-Year B.Tech Student in Artificial Intelligence & Data Science.<br><br>
 
-Currently building LearnMate and MiroFish while exploring AI-powered systems, swarm intelligence, and multi-agent architectures.<br><br>
+Currently building LearnMate and MiroFish while exploring AI-powered systems, swarm intelligence, and multi-agent architectures 🗂️.<br><br>
 
 Interested in Artificial Intelligence, Backend Engineering, System Design, and scalable software development.<br><br>
 
@@ -10,7 +10,7 @@ Working primarily with Python, FastAPI, Machine Learning, APIs, and Databases to
 
 Currently learning Cloud Technologies, Distributed Systems, and Advanced Data Structures & Algorithms.<br><br>
 
-Open to collaborating on AI, Backend, and Open-Source Projects.<br><br>
+Open to collaborating on AI, Backend, and Open-Source Projects🐞.<br><br>
 
 2nd Place Winner at the TMI 24-Hour Hackathon.<br><br>
 
