@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 
 Final-Year B.Tech Student in Artificial Intelligence & Data Science.<br><br>
 
